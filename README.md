@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuşa Çapraz</h1>
-<h3 align="center">I also go by the name "CyberFreak1911"</h3>
+<h3 align="center">I also go by the name "CFYusaCapraz"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberfreak1911&label=Profile%20views&color=0e75b6&style=flat" alt="cyberfreak1911" /> </p>
 
